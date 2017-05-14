@@ -2,7 +2,7 @@
 
 1. `yarn`
 2. `yarn start`
-3. Visit `http://localhost:3011`
+3. Visit http://localhost:3011
 
 Then to see hacky fix work, open `app.node.module.ts`, uncomment lines 13 and 14, and restart server. https://github.com/samuelhorwitz/angular-16776-example/blob/master/src/app/app.node.module.ts#L13-L14
 
